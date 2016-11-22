@@ -1,0 +1,11 @@
+body {
+    padding-top: 30px;
+}
+
+.customers-page-container ul.nav.nav-tabs {
+    margin-bottom: 15px;
+}
+
+.customers-page-container .panel-heading {
+    cursor: pointer;
+}
